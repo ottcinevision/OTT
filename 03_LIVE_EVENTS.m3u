@@ -4,38 +4,63 @@ https://playztv.pages.dev/promo/intro-2.mp4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Greece Cup" tvg-name="Aris vs Marko" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Aris vs Marko
-http://193.47.62.1/hls/FCCCQQQQQQ.m3u8
+#EXTINF:-1 group-title="Basketball Euroleague Super Cup" tvg-name="Olympiacos vs Fenerbahce" tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg",Olympiacos vs Fenerbahce
+http://193.47.62.59/hls/DOOOFFAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Cup Women U20" tvg-name="Brazil U20 W vs USA U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg",Brazil U20 W vs USA U20 W
-http://193.47.62.1/hls/FCCCQQQQQ.m3u8
+#EXTINF:-1 group-title="Kazakhstan Premier League" tvg-name="Kyzylzhar vs Kaisar Kyzylorda" tvg-logo="https://pbs.twimg.com/profile_images/1610490753976832006/lga9ESei_400x400.jpg",Kyzylzhar vs Kaisar Kyzylorda
+http://193.47.62.44/hls/DOOOFFAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="World Cup Women U20" tvg-name="Argentina U20 W vs South Korea U20 W" tvg-logo="https://pbs.twimg.com/profile_images/1800424366703857665/cFuM2ynZ_400x400.jpg",Argentina U20 W vs South Korea U20 W
-http://193.47.62.1/hls/FCCCQQQQ.m3u8
+#EXTINF:-1 group-title="Armenia Premier League" tvg-name="FC Gandzasar vs Urartu" tvg-logo="https://pbs.twimg.com/profile_images/1747938544734085120/t18E9sx8_400x400.jpg",FC Gandzasar vs Urartu
+http://193.47.62.44/hls/DOOOFFAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Malaysia FA Cup" tvg-name="Terengganu vs DPMM" tvg-logo="https://pbs.twimg.com/profile_images/1638733016985145344/DlS5U4Qj_400x400.jpg",Terengganu vs DPMM
-http://193.47.62.44/hls/FCCCQQQ.m3u8
+#EXTINF:-1 group-title="Cycling" tvg-name="Cycling Tour of Vlaanderen" tvg-logo="https://pbs.twimg.com/profile_images/1158457373423472641/ltjhInLQ_400x400.jpg",Cycling Tour of Vlaanderen
+http://193.47.62.44/hls/DOOO.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League" tvg-name="Port MTI FC vs Vissel Kobe" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Port MTI FC vs Vissel Kobe
-http://193.47.62.44/hls/FCCCQQ.m3u8
+#EXTINF:-1 group-title="Azerbaijan Premier League" tvg-name="Gabala vs Neftci Baku" tvg-logo="https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg",Gabala vs Neftci Baku
+http://193.47.62.44/hls/DOOOFFA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League II" tvg-name="Viettel vs Melbourne Victory" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Viettel vs Melbourne Victory
-http://193.47.62.44/hls/FCCCQ.m3u8
+#EXTINF:-1 group-title="Belarus Vysshaya Liga" tvg-name="Belshina vs FC Minsk" tvg-logo="https://pbs.twimg.com/profile_images/1469076834/125px-Flag_of_Belarus_400x400.png",Belshina vs FC Minsk
+http://193.47.62.44/hls/DOOOFF.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Greece Cup" tvg-name="Niki Volos vs Asteras Tripolis --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png",Niki Volos vs Asteras Tripolis --- CH 1
-http://193.47.62.44/hls/FCCC.m3u8
+#EXTINF:-1 group-title="Golf PGA" tvg-name="Golf PGA Biltmore Championship" tvg-logo="https://pbs.twimg.com/profile_images/1749466889376473090/4nPDWTqB_400x400.jpg",Golf PGA Biltmore Championship
+http://193.47.62.44/hls/DOOOF.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Turkey Lig 1" tvg-name="Bandirmaspor vs Umraniyespor" tvg-logo="https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg",Bandirmaspor vs Umraniyespor
+http://193.47.62.44/hls/FFFFFAAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Israel Ligat ha'Al" tvg-name="Hapoel Tel Aviv vs Hapoel Petah Tikva" tvg-logo="https://pbs.twimg.com/profile_images/1344253261650530304/NhvOsx8h_400x400.png",Hapoel Tel Aviv vs Hapoel Petah Tikva
+http://193.47.62.44/hls/FFFFFAAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Tennis" tvg-name="Tennis Davis Cup" tvg-logo="https://pbs.twimg.com/profile_images/1388099379039440897/0vDZ7eYq_400x400.jpg",Tennis Davis Cup
+http://193.47.62.44/hls/FOFOFO.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Ukraine Premier League" tvg-name="Polissya Zhytomyr vs Kryvbas" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",Polissya Zhytomyr vs Kryvbas
+http://193.47.62.44/hls/FFFFFAA.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Thailand Thai league 1" tvg-name="Ayutthaya Utd vs Uthai Thani" tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg",Ayutthaya Utd vs Uthai Thani
+http://193.47.62.44/hls/FFFFFA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -49,28 +74,33 @@ http://193.47.62.194/hls/vavavavaq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Asian Games" tvg-name="Chinese Taipei vs Japan" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",Chinese Taipei vs Japan
-http://193.47.62.44/hls/VTTTQQQQ.m3u8
+#EXTINF:-1 group-title="China Super League" tvg-name="Zhejiang Professional vs Wuhan Three Towns" tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg",Zhejiang Professional vs Wuhan Three Towns
+http://193.47.62.44/hls/FFFFF.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League" tvg-name="Jeonbuk vs Kashiwa Reysol" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Jeonbuk vs Kashiwa Reysol
-http://193.47.62.44/hls/VTTTQQQ.m3u8
+#EXTINF:-1 group-title="Asian Games" tvg-name="Saudi Arabia U23 vs Qatar U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Saudi Arabia U23 vs Qatar U23
+http://193.47.62.44/hls/NNNNAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AFC Champions League II" tvg-name="Seoul vs Persib Bandung" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg",Seoul vs Persib Bandung
-http://193.47.62.44/hls/VTTTQQ.m3u8
+#EXTINF:-1 group-title="Basketball Asian Games" tvg-name="Japan vs China" tvg-logo="https://pbs.twimg.com/profile_images/1858812711376699392/LcQ55MY1_400x400.jpg",Japan vs China
+http://193.47.62.44/hls/NNNNAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Asian Games" tvg-name="Japan U23 vs Hong Kong U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Japan U23 vs Hong Kong U23
-http://193.47.62.44/hls/VTTTQ.m3u8
+#EXTINF:-1 group-title="Asian Games" tvg-name="Kuwait U23 vs Uzbekistan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Kuwait U23 vs Uzbekistan U23
+http://193.47.62.44/hls/NNNNA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Asian Games" tvg-name="China U23 vs North Korea U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",China U23 vs North Korea U23
-http://193.47.62.44/hls/VTTT.m3u8
+#EXTINF:-1 group-title="Ukraine Premier League" tvg-name="Ch Odesa vs Obolon" tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg",Ch Odesa vs Obolon
+http://193.47.62.44/hls/NNNN.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Snooker" tvg-name="Snooker Northern Ireland Open --- Table 1" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",Snooker Northern Ireland Open --- Table 1
+http://193.47.62.44/hls/grrrAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -89,10 +119,15 @@ http://193.47.62.44/hls/grrr.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Basketball Asian Games" tvg-name="China vs Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",China vs Saudi Arabia
-http://193.47.62.44/hls/FUUUQQaAaAAAAQA.m3u8
+#EXTINF:-1 group-title="MotoGP" tvg-name="MotoGP Grand Prix of Austria" tvg-logo="https://pbs.twimg.com/profile_images/1858245091661324288/g97T9wjl_400x400.jpg",MotoGP Grand Prix of Austria
+http://193.47.62.44/hls/ssssAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Football Asian Games" tvg-name="Thailand U23 vs Kyrgyzstan U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Thailand U23 vs Kyrgyzstan U23
-http://193.47.62.44/hls/FUUUQQaAaAAAAQ.m3u8
+#EXTINF:-1 group-title="Cricket" tvg-name="Zimbabwe vs Australia" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg",Zimbabwe vs Australia
+http://193.47.62.44/hls/ssss.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Golf" tvg-name="Golf BMW PGA Championship" tvg-logo="https://pbs.twimg.com/profile_images/2099474243637637120/0pd2Irne_400x400.jpg",Golf BMW PGA Championship
+http://193.47.62.52/hls/iiiia.m3u8

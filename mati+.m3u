@@ -211,6 +211,18 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=6685
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=6685&type=dash
 
+#EXTINF:-1 group-title="VIDIO",HOREE! 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=6397&type=dash
+
+#EXTINF:-1 group-title="VIDIO",HOP HOP HOREE! 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=7052&type=dash
+
 
 
 
@@ -238,8 +250,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 #EXTINF:-1 group-title="VISION+",RCTI drmiontv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=1
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=1&t=YXV0by1jMjNkNWUwYWEyNWM4ZjI5fDE3OTAxOTIwOTJ8YTVhNDU1M2ExZDMyNzEyN2IxZDk4NWU1YmE3YzQ0MWE0MzRjODExOWQ4ZGNkNzk1ZGM4ZDQ1YThjMmEzMDJiOA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
@@ -266,8 +279,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 #EXTINF:-1 group-title="VISION+",INDOSIAR drmiontv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=9
+#KODIPROP:inputstream.adaptive.license_key=https://visionplus.drmiontv.workers.dev/lic?id=9&t=YXV0by1jMjNkNWUwYWEyNWM4ZjI5fDE3OTAxOTIwOTJ8YTVhNDU1M2ExZDMyNzEyN2IxZDk4NWU1YmE3YzQ0MWE0MzRjODExOWQ4ZGNkNzk1ZGM4ZDQ1YThjMmEzMDJiOA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 

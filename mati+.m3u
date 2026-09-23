@@ -124,11 +124,30 @@ https://calistaiptv.my.id/indopart/play.mpd?id=783&type=dash
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=783
 
 #EXTINF:-1 group-title="VIDIO",TVONE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=tvone
 https://vidsemar.pages.dev/terraluna2/783.mpd
 
+#EXTINF:-1 group-title="VIDIO",RTV 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=1561&type=dash
 
+#EXTINF:-1 group-title="VIDIO",RTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=1561
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=1561
+
+#EXTINF:-1 group-title="VIDIO",RTV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/1561.mpd
 
 
 #EXTINF:-1 group-title="VISION+",RCTI dusk.biz.id

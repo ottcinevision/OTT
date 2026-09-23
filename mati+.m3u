@@ -1,10 +1,44 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VISION+",TES INDOSIAR
-https://channel.akuninduk11.workers.dev/indosiar
+#EXTINF:-1 group-title="VIDIO",SCTV 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
-#EXTINF:-1 group-title="VISION+",TES SCTV
-https://channel.akuninduk11.workers.dev/sctv
+#EXTINF:-1 group-title="VIDIO",SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=204
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=204
+
+#EXTINF:-1 group-title="VIDIO",SCTV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/204.mpd
+
+#EXTINF:-1 group-title="VIDIO",INDOSIAR 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
+
+#EXTINF:-1 group-title="VIDIO",INDOSIAR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=205
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=205
+
+#EXTINF:-1 group-title="VIDIO",INDOSIAR 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/205.mpd
+
+
 
 #EXTINF:-1 group-title="VISION+",RCTI dusk.biz.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

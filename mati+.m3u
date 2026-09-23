@@ -76,24 +76,44 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=782
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 https://vidsemar.pages.dev/terraluna2/782.mpd
 
-#EXTINF:-1 group-title="VIDIO",RCTI 1
+#EXTINF:-1 group-title="VIDIO",METRO TV 1
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://calistaiptv.my.id/indopart/play.mpd?id=665&type=dash
+https://calistaiptv.my.id/indopart/play.mpd?id=777&type=dash
 
-#EXTINF:-1 group-title="VIDIO",RCTI 2
+#EXTINF:-1 group-title="VIDIO",METRO TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=665
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=665
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=777
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=777
 
-#EXTINF:-1 group-title="VIDIO",RCTI 3
+#EXTINF:-1 group-title="VIDIO",METRO TV 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://vidsemar.pages.dev/terraluna2/665.mpd
+https://vidsemar.pages.dev/terraluna2/777.mpd
+
+#EXTINF:-1 group-title="VIDIO",KOMPAS TV 1
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://calistaiptv.my.id/indopart/play.mpd?id=874&type=dash
+
+#EXTINF:-1 group-title="VIDIO",KOMPAS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; BRAVIA 4K UR3 Build/QTG3.200305.006.S29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.dash?id=874
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.mpd?id=874
+
+#EXTINF:-1 group-title="VIDIO",KOMPAS TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/874.mpd
+
 
 
 
